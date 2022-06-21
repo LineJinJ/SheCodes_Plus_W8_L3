@@ -20,7 +20,7 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: #851d41;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -37,7 +37,7 @@ li:first-letter {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #ffb99a;
   border-radius: 5px;
 }
 
@@ -71,4 +71,8 @@ li:first-letter {
 
 .weather-temperature .active:hover {
   text-decoration: none;
+}
+
+.name-coder {
+  color: #db3056;
 }
